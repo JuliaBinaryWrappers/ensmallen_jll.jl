@@ -1,6 +1,6 @@
 [ensmallen]
-git-tree-sha1 = "a32b08b62a1dce64e6e300aa1608ac33b5493205"
+git-tree-sha1 = "9ea11bd3ba51ec6fe03a9987ffbbfa410c9d7e30"
 
     [[ensmallen.download]]
-    sha256 = "c4a75bae7c7f4fb85fa94caca488570be80b33c33b66c092d33c2144e786aea2"
-    url = "https://github.com/JuliaBinaryWrappers/ensmallen_jll.jl/releases/download/ensmallen-v2.18.1+0/ensmallen.v2.18.1.any.tar.gz"
+    sha256 = "9d8e0bbf63874d33db071809db24ff79b71d632058d47467e63f72e5b2b9256a"
+    url = "https://github.com/JuliaBinaryWrappers/ensmallen_jll.jl/releases/download/ensmallen-v2.21.0+0/ensmallen.v2.21.0.any.tar.gz"
